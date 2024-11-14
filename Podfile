@@ -1,5 +1,5 @@
 # Uncomment the next line to define a global platform for your project
-platform :ios, '18.1
+platform :ios, '18.1'
 
 target 'InstagramClone' do
   # Comment the next line if you don't want to use dynamic frameworks
@@ -7,7 +7,7 @@ target 'InstagramClone' do
 
   # Pods for InstagramClone
 
-# pod 'Appirater'
+pod 'Appirater'
 
 # Firebase
 pod 'Firebase/Core'
