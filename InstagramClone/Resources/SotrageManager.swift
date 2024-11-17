@@ -5,7 +5,7 @@
 //  Created by Mend Mzury on 11/15/24.
 //
 
-import FirebaseDatabase
+import FirebaseStorage
 
 public class StorageManager {
     static let shared = StorageManager()
